@@ -107,3 +107,21 @@ if (tarefas.length !== 0){
 }
 
 console.log("Até a próxima! Obrigado por usar nossa lista de tarefas".blue);
+execSync("sleep 1");
+console.log();
+console.log("EQUIPE DE DESENVOLVEDORES".bgRed);
+execSync("sleep 1");
+console.log();
+console.log("João Vitor Wolfart");
+execSync("sleep 1");
+console.log("Priscilla de Araújo");
+execSync("sleep 1");
+console.log("Pietra Almeida");
+execSync("sleep 1");
+console.log();
+console.log();
+console.log();
+console.log("Turma 1090 Vem Ser Tech Back End - Ada iFood".bgGreen);
+console.log();
+console.log();
+console.log();
