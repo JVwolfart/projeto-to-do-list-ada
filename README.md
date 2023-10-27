@@ -28,3 +28,10 @@ Após isso, o sistema carrega um menu com as opções, de acordo com o solicitad
 Também incluímos no menu, uma opção para sair do sistema, que quando selecionada, o programa vai salvar a lista de tarefas no arquivo texto, para assim persistir os dados e as alterações feitas durante a execução.
 
 Após isso, o programa irá emitir uma mensagem de encerramento, e dar os créditos aos desenvolvedores.
+
+
+## Desenvolvedores
+
+- João Vitor Wolfart
+- Priscilla de Araújo
+- Pietra Almeida
