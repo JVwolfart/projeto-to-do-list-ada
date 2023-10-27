@@ -81,6 +81,8 @@ do {
         case 4:
             console.log("Segue abaixo todas as suas tarefas cadastradas: ".bgBlue);
             exibirTarefas(tarefas);
+            console.log();
+            console.log();
             break;
         case 5:
             let indiceBusca = parseInt(prompt("Digite o índice da tarefa que deseja conferir ".green));
